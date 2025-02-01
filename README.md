@@ -20,11 +20,11 @@ Passionate about **biomedical informatics, network and systems biology, and digi
 
 ## Professional Experience  
 **NLM Postdoctoral Fellow (Bioinformatics & Computational Biomedicine)**
-- Oregon Health Sciences University (OHSU) | July 2023 - Present
+Oregon Health Sciences University (OHSU) | July 2023 - Present
 - *Expected completion: July 2025 (MS in Bioinformatics & Computational Biomedicine)*  
 
 **Naturopathic Physician | Telehealth Provider**  
-- Self-employed | Jan 2021 - Present
+Self-employed | Jan 2021 - Present
 - *Providing online naturopathic/integrative services for clients with various chronic disorders*  
 
 **Assistant Professor | Attending Physician**  
