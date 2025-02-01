@@ -7,7 +7,7 @@
 📱 Mobile: 503-314-7022  
 
 ## About Me  
-Passionate about **biomedical informatics, network and systems biology, and digital biomarkers** derived from wearable sensors for assessing biological rhythms, physiological resilience, and health optimization, with a particular interest in salutogenesis and the factors that promote health and well-being.
+Dedicated Naturopathic Physician and former Assistant Professor with over 25 years of experience in integrative primary care, medical education, and clinical research. Currently an NLM Postdoctoral Fellow at Oregon Health & Science University (OHSU), specializing in bioinformatics and computational biomedicine. My work focuses on understanding salutogenesis—the processes that promote health and resilience—through systems biology and computational approaches. I am particularly interested in leveraging both traditional and digital biomarkers, including data from wearable sensors, to analyze biological rhythms, assess physiological resilience, and optimize health outcomes.
 
 ---
 
