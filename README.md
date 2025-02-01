@@ -12,14 +12,21 @@ Dedicated Naturopathic Physician and former Assistant Professor with over 25 yea
 ---
 
 ## Education  
+**M.S. (Bioinformatics & Computational Biomedicine)**\
+Oregon Health & Science University (OHSU), Portland, Oregon\
+(Expected *July 2025*)
+
 **N.D. (Naturopathic Medicine)**\
-National College of Naturopathic Medicine (NCNM) (_June 1998_)
+National College of Naturopathic Medicine (NCNM), Portland, Oregon\
+(*June 1998*)
 
 **M.S. (East Asian Medicine)**\
-National College of Naturopathic Medicine (NCNM) (_June 1998_)
+National College of Naturopathic Medicine (NCNM), Portland, Oregon\
+(*June 1998*)
 
 **B.S. (Physics and Mathematics)**\
-The Ohio State University (_June 1992_)
+The Ohio State University, Columbus, Ohio\
+(*June 1992*)
 
 ---
 
