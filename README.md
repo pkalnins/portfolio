@@ -4,9 +4,6 @@
 📧 Email: pkalnins@ohsu.edu  
 🌐 Practice: [drpkalnins.com](https://drpkalnins.com)  
 🔗 LinkedIn: [linkedin.com/in/pkalnins9](https://linkedin.com/in/pkalnins9)  
-
-**Naturopathic Physician License:** 958 (Oregon) | **NPI:** 1588708143  
-📍 949 NW Overton St. Unit 711, Portland, OR 97209  
 📱 Mobile: 503-314-7022  
 
 ## About Me  
@@ -15,33 +12,33 @@ Passionate about **biomedical informatics, network and systems biology, and digi
 ---
 
 ## Education  
-### Doctor of Naturopathic Medicine (ND) & Master of Science in Oriental Medicine (MSOM)  
-**National College of Naturopathic Medicine (NCNM), Portland, Oregon** (1998)  
+**Doctor of Naturopathic Medicine (ND) & Master of Science in Oriental Medicine (MSOM)**  
+National College of Naturopathic Medicine (NCNM), Portland, Oregon (1998)  
 
-### Bachelor of Science (BS), Physics and Mathematics, with Honors  
-**The Ohio State University, Columbus, Ohio** (1993)  
+**Bachelor of Science (BS), Physics and Mathematics, with Honors**  
+The Ohio State University, Columbus, Ohio (1993)  
 
 ---
 
 ## Professional Experience  
-### **NLM Postdoctoral Fellow (Bioinformatics & Computational Biomedicine)**  
-**Oregon Health Sciences University (OHSU) | July 2023 - Present**  
+**NLM Postdoctoral Fellow (Bioinformatics & Computational Biomedicine)**
+Oregon Health Sciences University (OHSU) | July 2023 - Present
 *Expected completion: July 2025 (MS in Bioinformatics & Computational Biomedicine)*  
 
-### **Naturopathic Physician | Telehealth Provider**  
-**Self-employed | Jan 2021 - Present**  
+**Naturopathic Physician | Telehealth Provider**  
+Self-employed | Jan 2021 - Present
 *Providing online naturopathic/integrative services for clients with various chronic disorders*  
 
-### **Assistant Professor | Attending Physician**  
-**National University of Natural Medicine | Sept 2004 - Sept 2020**  
+**Assistant Professor | Attending Physician**  
+National University of Natural Medicine | Sept 2004 - Sept 2020
 - Served as instructor, attending physician, and clinical research mentor  
 - Taught biomedical science courses (physiology, biochemistry, endocrinology, pharmacology)  
 - Supervised students in the university’s outpatient teaching clinics  
 - Mentored students conducting clinical research trials  
 - Leadership role in administrative and curriculum redesign committees  
 
-### **Naturopathic Physician | Private Practice**  
-**Jan 1999 - Sept 2004**  
+**Naturopathic Physician | Private Practice**  
+Jan 1999 - Sept 2004
 Provided naturopathic primary care to patients in an integrative medical practice  
 
 ---
@@ -59,7 +56,7 @@ Provided naturopathic primary care to patients in an integrative medical practic
 ---
 
 ## Recent Coursework  
-### **Oregon Health Sciences University (OHSU)**  
+**Oregon Health Sciences University (OHSU)** 
 - Introduction to Biomedical Informatics (BMI 510)  
 - Introduction to Biostatistics (BSTA 525)  
 - Probability & Statistical Inference (BMI 531)  
@@ -68,7 +65,7 @@ Provided naturopathic primary care to patients in an integrative medical practic
 - Bioinformatics Statistical Methods (BMI 551)  
 - Network Science and Biology (BMI 567)  
 
-### **Online Certifications (Coursera/Udemy)**  
+**Online Certifications (Coursera/Udemy)**  
 - Google Data Analytics Career Certificate (Coursera, 2022)  
 - Complete Web Developer Bootcamp (Udemy, 2022)  
 - Complete Python Bootcamp (Udemy, 2022)  
@@ -77,11 +74,11 @@ Provided naturopathic primary care to patients in an integrative medical practic
 ---
 
 ## Publications  
-### **Theses**  
+**Theses**  
 - *Toxemia and Terrain: The Evolution of Intestinal Dysbiosis and Hyperpermeability* (1998)  
 - *Goethean Phenomenology: An Alternative to Phytochemical Reductionism* (1998)  
 
-### **Journal Articles**  
+**Journal Articles**  
 - Mist SD, Aickin M, Kalnins P, et al. Reliability of AcuGraph system for measuring skin conductance at acupoints. *Acupunct Med.* 2011; 29(3):221-6. DOI: [10.1136/aim.2010.003012](https://doi.org/10.1136/aim.2010.003012)  
 - Shaw K, Wright K, Wang J, Kalnins P. Synergism of herbs in classical Chinese medicine: evidence from HPLC. *BMC Complement Altern Med* 2012; 12(Suppl 1):P39. DOI: [10.1186/1472-6882-12-S1-P39](https://doi.org/10.1186/1472-6882-12-S1-P39)  
 - Dombrowski A, Imre K, Yan M, Kalnins P, et al. Treatment of Osteoarthritis With Low-level Laser Therapy, Acupuncture, and Herbal Therapy: A Case Report. *Integr Med (Encinitas).* 2018; 17(2):48-53. PMID: [30962785](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396761/)  
