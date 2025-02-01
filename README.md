@@ -1,4 +1,4 @@
-# Paul Kalnins, ND, MSOM  
+# Paul Kalnins, ND, MS  
 **Naturopathic Physician | NLM Postdoctoral Fellow (Bioinformatics & Computational Biomedicine)**  
 
 📧 Email: pkalnins@ohsu.edu  
