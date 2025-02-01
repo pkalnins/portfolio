@@ -37,7 +37,7 @@ National University of Natural Medicine (NUNM) | Sept 2004 - Sept 2020
 
 **Naturopathic Physician | Private Practice**  
 Jan 1999 - Sept 2004
-- Provided naturopathic primary care to patients in an integrative medical practice  
+- Provided naturopathic primary care and acupuncture services in an integrative medical practice  
 
 ---
 
