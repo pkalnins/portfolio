@@ -12,9 +12,9 @@ Dedicated Naturopathic Physician and former Assistant Professor with over 25 yea
 ---
 
 ## Education  
-N.D., Naturopathic Medicine | National College of Naturopathic Medicine (NCNM) (_June 1998_)
-M.S., East Asian Medicine | National College of Naturopathic Medicine (NCNM) (_June 1998_)
-B.S., Physics and Mathematics | The Ohio State University (_June 1992_)
+- N.D. (Naturopathic Medicine), National College of Naturopathic Medicine (NCNM) (_June 1998_)
+- M.S. (East Asian Medicine), National College of Naturopathic Medicine (NCNM) (_June 1998_)
+- B.S. (Physics and Mathematics), The Ohio State University (_June 1992_)
 
 ---
 
