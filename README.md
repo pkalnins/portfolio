@@ -12,11 +12,9 @@ Passionate about **biomedical informatics, network and systems biology, and digi
 ---
 
 ## Education  
-**Doctor of Naturopathic Medicine (ND) & Master of Science in Oriental Medicine (MSOM)**  
-National College of Naturopathic Medicine (NCNM), Portland, Oregon (1998)  
-
-**Bachelor of Science (BS), Physics and Mathematics, with Honors**  
-The Ohio State University, Columbus, Ohio (1993)  
+- N.D., Naturopathic Medicine | National College of Naturopathic Medicine (NCNM) (_June 1998_)
+- M.S., East Asian Medicine | National College of Naturopathic Medicine (NCNM) (_June 1998_)
+- B.S., Physics and Mathematics | The Ohio State University (_June 1992_)
 
 ---
 
