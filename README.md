@@ -33,19 +33,25 @@ Columbus, Ohio (*June 1992*)
 ## Professional Experience  
 **NLM Postdoctoral Fellow** (Bioinformatics & Computational Biomedicine)\
 Oregon Health Sciences University (OHSU) | July 2023 - Present
-- *Expected completion: July 2025 (MS in Bioinformatics & Computational Biomedicine)*  
+- Expected completion: July 2025 (MS in Bioinformatics & Computational Biomedicine)
+- Engaging in cutting-edge AI/Machine Learning applications for biomedical research, focusing on health optimization, digital biomarkers, and systems biology.
+- Applying computational techniques to analyze large-scale biomedical data, aiming to advance predictive models for health resilience and disease prevention.
+- Collaborating with cross-disciplinary teams to integrate bioinformatics tools and biomedical datasets for personalized medicine solutions.
 
 **Naturopathic Physician | Telehealth Provider**  
 Self-employed | Jan 2021 - Present
-- *Providing online naturopathic/integrative services for clients with various chronic disorders*  
+- Delivering personalized, integrative care through telehealth to clients with chronic health conditions, including chronic pain, autoimmune disorders, and cardio-metabolic dysfunction.
+- Utilizing a holistic approach combining evidence-based naturopathic treatments with lifestyle interventions to optimize health outcomes.
+- Developing customized wellness plans, integrating nutrition, herbal medicine, and stress management strategies for long-term health and resilience.
+- Leveraging telemedicine technologies to expand patient access to integrative care and facilitate ongoing health monitoring.
 
 **Assistant Professor | Attending Physician**  
 National University of Natural Medicine (NUNM) | Sept 2004 - Sept 2020
-- Served as instructor, attending physician, and clinical research mentor  
-- Taught biomedical science courses (physiology, biochemistry, endocrinology, pharmacology)  
-- Supervised students in the university’s outpatient teaching clinics  
-- Mentored students conducting clinical research trials  
-- Leadership role in administrative and curriculum redesign committees  
+- Led the instruction of biomedical science courses (physiology, biochemistry, endocrinology, pharmacology) to medical students, fostering a deep understanding of integrative medicine.
+- Supervised students in the university’s outpatient teaching clinics, providing hands-on training in patient care and clinical decision-making.
+- Mentored students in clinical research trials, guiding them through study design, data collection, and analysis to publish peer-reviewed work.
+- Contributed to the leadership and strategic direction of the university by actively participating in curriculum redesign and administrative committees.
+- Collaborated with faculty members to develop innovative course materials and teaching methodologies that integrated evidence-based medicine with holistic treatment approaches.
 
 **Naturopathic Physician | Private Practice**  
 Jan 1999 - Sept 2004
@@ -54,14 +60,39 @@ Jan 1999 - Sept 2004
 ---
 
 ## Skills  
-- **Clinical:** Primary care integrative medicine, EPIC EHR  
-- **Teaching:** Extensive experience in lecturing, course design, and administration  
-- **Medical Research:** Publishing evidence-based medicine case reports  
-- **Programming & Scripting:** Python, R, Terminal/Bash, JavaScript, SQL  
-- **Data Analysis & Visualization:** Excel, Tableau, Python (various packages), R (Tidyverse)  
-- **Machine Learning:** Python (Scikit-learn, TensorFlow), R (various packages)  
-- **Web Development:** HTML5, CSS3, JavaScript (Node.js/Express.js), Python (Django)  
-- **Other:** Git/GitHub, Jupyter Notebooks, Google Colab, R-Studio  
+**Clinical**\
+- Primary care integrative medicine with a focus on holistic approaches for chronic conditions.
+- Proficient in using EPIC EHR for patient management and documentation.
+
+**Teaching & Education**\
+- Extensive experience in lecturing, course design, and administration at the university level.
+- Expertise in developing and delivering multidisciplinary curricula blending biomedical science with integrative medicine principles.
+- Mentoring students in clinical research and supporting academic development.
+
+**Medical Research**\
+- Experienced in publishing evidence-based case reports in integrative medicine.
+- Involved in designing and conducting clinical research trials, with a focus on outcomes research and data analysis.
+
+**Programming & Scripting**\
+- Proficient in Python, R, and JavaScript for data manipulation, analysis, and modeling.
+- Experienced in using SQL for database management and Terminal/Bash for automation and scripting tasks.
+
+**Data Analysis & Visualization**\
+- Strong background in data analysis with Python (various packages) and R (Tidyverse).
+- Skilled in creating intuitive data visualizations using Tableau, Excel, and custom scripts.
+
+**Machine Learning & AI**\
+- Hands-on experience with Scikit-learn and TensorFlow in predictive modeling, classification, and regression.
+- Proficient in applying machine learning algorithms to biomedical datasets for predictive analytics and health optimization.
+
+**Web Development**\
+- Expertise in front-end web development using HTML5, CSS3, and JavaScript (Node.js/Express.js).
+- Experienced in back-end web development with Python (Django) for full-stack web applications.
+
+**Other**\
+- Version control with Git/GitHub for collaborative coding and project management.
+- Familiar with Jupyter Notebooks, Google Colab, and R-Studio for interactive data analysis and model development.
+- Hands-on experience with Arduino and Raspberry Pi Pico for creating interactive projects and biomedical applications.
 
 ---
 
