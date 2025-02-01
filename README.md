@@ -19,7 +19,7 @@ Passionate about **biomedical informatics, network and systems biology, and digi
 ---
 
 ## Professional Experience  
-**NLM Postdoctoral Fellow** (Bioinformatics & Computational Biomedicine)
+**NLM Postdoctoral Fellow** (Bioinformatics & Computational Biomedicine)\
 Oregon Health Sciences University (OHSU) | July 2023 - Present
 - *Expected completion: July 2025 (MS in Bioinformatics & Computational Biomedicine)*  
 
