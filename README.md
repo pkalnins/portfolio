@@ -60,36 +60,36 @@ Jan 1999 - Sept 2004
 ---
 
 ## Skills  
-**Clinical**\
+**Clinical**
 - Primary care integrative medicine with a focus on holistic approaches for chronic conditions.
 - Proficient in using EPIC EHR for patient management and documentation.
 
-**Teaching & Education**\
+**Teaching & Education**
 - Extensive experience in lecturing, course design, and administration at the university level.
 - Expertise in developing and delivering multidisciplinary curricula blending biomedical science with integrative medicine principles.
 - Mentoring students in clinical research and supporting academic development.
 
-**Medical Research**\
+**Medical Research**
 - Experienced in publishing evidence-based case reports in integrative medicine.
 - Involved in designing and conducting clinical research trials, with a focus on outcomes research and data analysis.
 
-**Programming & Scripting**\
+**Programming & Scripting**
 - Proficient in Python, R, and JavaScript for data manipulation, analysis, and modeling.
 - Experienced in using SQL for database management and Terminal/Bash for automation and scripting tasks.
 
-**Data Analysis & Visualization**\
+**Data Analysis & Visualization**
 - Strong background in data analysis with Python (various packages) and R (Tidyverse).
 - Skilled in creating intuitive data visualizations using Tableau, Excel, and custom scripts.
 
-**Machine Learning & AI**\
+**Machine Learning & AI**
 - Hands-on experience with Scikit-learn and TensorFlow in predictive modeling, classification, and regression.
 - Proficient in applying machine learning algorithms to biomedical datasets for predictive analytics and health optimization.
 
-**Web Development**\
+**Web Development**
 - Expertise in front-end web development using HTML5, CSS3, and JavaScript (Node.js/Express.js).
 - Experienced in back-end web development with Python (Django) for full-stack web applications.
 
-**Other**\
+**Other**
 - Version control with Git/GitHub for collaborative coding and project management.
 - Familiar with Jupyter Notebooks, Google Colab, and R-Studio for interactive data analysis and model development.
 - Hands-on experience with Arduino and Raspberry Pi Pico for creating interactive projects and biomedical applications.
@@ -104,7 +104,11 @@ Jan 1999 - Sept 2004
 - Bioinformatics Algorithms (BMI 550)  
 - Bioinformatics Programming & Scripting (BMI 565)  
 - Bioinformatics Statistical Methods (BMI 551)  
-- Network Science and Biology (BMI 567)  
+- Network Science and Biology (BMI 567)
+- Software Engineering (BMI 546)
+- Machine Learning (BMI 543)
+- Clinical Research Informatics (BMI 523)
+- Scientific Writing & Communication (BMI 570) 
 
 **Online Certifications (Coursera/Udemy)**  
 - Google Data Analytics Career Certificate (Coursera, 2022)  
