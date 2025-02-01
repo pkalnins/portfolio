@@ -32,8 +32,7 @@ Columbus, Ohio (*June 1992*)
 
 ## Professional Experience  
 **NLM Postdoctoral Fellow** (Bioinformatics & Computational Biomedicine)\
-Oregon Health Sciences University (OHSU) | July 2023 - Present
-- Expected completion: July 2025 (MS in Bioinformatics & Computational Biomedicine)
+Oregon Health Sciences University (OHSU) | July 2023 - July 2025 (*Expected*)
 - Engaging in cutting-edge AI/Machine Learning applications for biomedical research, focusing on health optimization, digital biomarkers, and systems biology.
 - Applying computational techniques to analyze large-scale biomedical data, aiming to advance predictive models for health resilience and disease prevention.
 - Collaborating with cross-disciplinary teams to integrate bioinformatics tools and biomedical datasets for personalized medicine solutions.
