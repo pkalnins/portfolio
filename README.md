@@ -7,14 +7,35 @@
 🔗 LinkedIn: [linkedin.com/in/pkalnins9](https://linkedin.com/in/pkalnins9)   
 
 ## About Me  
-I’m a Naturopathic Physician and former Assistant Professor with over 25 years of experience in integrative primary care, medical education, and clinical research. Currently, I am completing an NLM T15 Postdoctoral Fellowship at Oregon Health & Science University (OHSU), specializing in bioinformatics and computational biomedicine. My work applies systems biology, neuroendocrine-immunology, and data science to explore Salutogenesis—the biological processes that promote health and resilience. I focus on integrating traditional and digital biomarkers—including wearable sensor data—to uncover insights into physiological resilience and derive better health outcomes.  I’m particularly interested in translating complex biological data into scalable solutions for preventive health, digital therapeutics, and personalized care. 
+Biomedical machine learning scientist with clinical expertise and specialized training in computational biomedicine. Passionate about building real-time, interpretable ML systems using physiological signals and multimodal data (e.g., HRV, retinal images, voice) to predict disease risk and enhance organ health monitoring. Skilled in wearable analytics, digital biomarker discovery, and patient-centric visualization tools. Seeking to advance human-centered AI in healthcare by bridging biosensing, modeling, and clinical utility.
+
+---
+
+## Skills  
+**ML & Deep Learning**
+- PyTorch, TensorFlow, Keras, Scikit-learn, SHAP, LIME, XGBoost
+- Time-series modeling, model interpretability
+
+**Biomedical & Multimodal AI**
+-	Wearable signal analysis (HRV, ECG, PPG), biosensor data pipelines
+-	Digital biomarkers, real-time physiology tracking, multimodal ML (image/audio/signal fusion)
+
+**Clinical Informatics & Research**
+-	EHR data analysis, FHIR, OMOP, CDM, clinical decision support systems, patient dashboards
+-	Predictive modeling, classification, regression
+-	Integrative primary care, chronic disease management, course instruction, scientific writing
+
+**Data & Tools**
+-	Python, R, SQL, Git, Bash, Google Colab, Jupyter, RStudio, VSCode
+-	Familiarity with HTML5, CSS3, JavaScript (Node.js/Express.js), Django
+- Hands-on experience with Arduino and Raspberry Pi Pico for creating interactive projects and biomedical applications
 
 ---
 
 ## Education  
 **M.S. (Bioinformatics & Computational Biomedicine)**
 >Oregon Health & Science University (OHSU)\
-Portland, Oregon (*Expected July 2025*)
+Portland, Oregon (*June 2025*)
 
 **N.D. (Naturopathic Medicine)**
 >National College of Naturopathic Medicine (NCNM)\
@@ -67,40 +88,15 @@ New Health Horizons, LLC\
 
 ---
 
-## Skills  
-**Clinical**
-- Primary care integrative medicine with a focus on holistic approaches for chronic conditions.
-- Proficient in using EPIC EHR for patient management and documentation.
+## Selected Projects
 
-**Teaching & Education**
-- Extensive experience in lecturing, course design, and academic administration at the university level.
-- Expertise in developing and delivering multidisciplinary curricula blending biomedical science with integrative medicine principles.
-- Mentoring students in clinical research and supporting academic development.
+**Predicting Metabolic Risk Using Wearable Data (2025)**
+-	Built ML pipelines with Scikit-learn and TensorFlow using HRV and stress data from 700+ participants
+-	Validated models via 5-fold cross-validation; reported ROC-AUC and precision/recall metrics.
 
-**Medical Research**
-- Experienced in publishing evidence-based case reports in integrative medicine.
-- Involved in designing and conducting clinical research trials, with a focus on outcomes research and data analysis.
-
-**Programming & Scripting**
-- Proficient in Python, R, and JavaScript for data manipulation, analysis, and modeling.
-- Experienced in using SQL for database management and Terminal/Bash for automation and scripting tasks.
-
-**Data Analysis & Visualization**
-- Strong background in data analysis with Python (various packages) and R (Tidyverse).
-- Skilled in creating intuitive data visualizations using Tableau, Excel, and custom scripts.
-
-**Machine Learning & AI**
-- Hands-on experience with Scikit-learn and TensorFlow in predictive modeling, classification, and regression.
-- Proficient in applying machine learning algorithms to biomedical datasets for predictive analytics and health optimization.
-
-**Web Development**
-- Knowledge of front-end web development using HTML5, CSS3, and JavaScript (Node.js/Express.js).
-- Familiarity with back-end web development with Python (Django) for full-stack web applications.
-
-**Other**
-- Version control with Git/GitHub for collaborative coding and project management.
-- Experience with Jupyter Notebooks, Google Colab, and R-Studio for interactive data analysis and model development.
-- Hands-on experience with Arduino and Raspberry Pi Pico for creating interactive projects and biomedical applications.
+**HRV Signal Cleaning & Feature Extraction**
+-	Developed Python-based pipeline for preprocessing HRV from ECG recordings
+-	Extracted time-domain and frequency-domain features (RMSSD, SDNN) for use in predictive modeling
 
 ---
 
@@ -141,3 +137,9 @@ New Health Horizons, LLC\
 - Kalnins P, Brucker M, Spears D. Prolonged Survival in a Patient with Idiopathic Pulmonary Fibrosis Receiving Acupuncture and DHEA-Promoting Herbs with Conventional Management: A Case Report. *Perm J.* 2019; 23:18-074. DOI: [10.7812/TPP/18-074](https://doi.org/10.7812/TPP/18-074)  
 
 ---
+
+## Targeted Domains & Interests
+Digital Biomarkers • Biosensors • Multimodal AI • Real-Time Physiology • Remote Monitoring • Biological Rhythms • Clinical Decision Support • EHR Visualization • Human-Centered AI in Healthcare • Salutogenic Healthcare • Stress Resilience
+
+---
+
