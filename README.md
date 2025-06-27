@@ -38,21 +38,21 @@ Biomedical data scientist with clinical expertise and specialized training in co
 ---
 
 ## Education  
-**Master of Science (MS) | Bioinformatics & Computational Biomedicine**\
-Oregon Health & Science University (OHSU) | Portland, Oregon\
-*July 2023 - June 2025*
+**Master of Science (MS) | Bioinformatics & Computational Biomedicine**
+- Oregon Health & Science University (OHSU) | Portland, Oregon
+- *July 2023 - June 2025*
 
-**Naturopathic Doctor (ND) | Naturopathic Medicine**\
-National University of Natural Medicine (NUNM) | Portland, Oregon\
-*September 1993 - June 1998*
+**Naturopathic Doctor (ND) | Naturopathic Medicine**
+- National University of Natural Medicine (NUNM) | Portland, Oregon
+- *September 1993 - June 1998*
 
-**Master of Science (MS) | East Asian Herbal Medicine & Acupuncture**\
-National University of Natural Medicine (NUNM) | Portland, Oregon\
-*September 1996 - June 1998*
+**Master of Science (MS) | East Asian Herbal Medicine & Acupuncture**
+- National University of Natural Medicine (NUNM) | Portland, Oregon
+- *September 1996 - June 1998*
 
-**Bachelor of Science (BS) | Physics and Mathematics**\
-The Ohio State University | Columbus, Ohio\
-*September 1987 - June 1992*
+**Bachelor of Science (BS) | Physics and Mathematics**
+- The Ohio State University | Columbus, Ohio
+- *September 1987 - June 1992*
 
 ---
 
