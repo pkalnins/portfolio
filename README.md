@@ -7,47 +7,52 @@
 🔗 LinkedIn: [linkedin.com/in/pkalnins9](https://linkedin.com/in/pkalnins9)   
 
 ## About Me  
-Biomedical machine learning scientist with clinical expertise and specialized training in computational biomedicine. Passionate about building real-time, interpretable ML systems using physiological signals and multimodal data (e.g., HRV, retinal images, voice) to predict disease risk and enhance organ health monitoring. Skilled in wearable analytics, digital biomarker discovery, and patient-centric visualization tools. Seeking to advance human-centered AI in healthcare by bridging biosensing, modeling, and clinical utility.
+Biomedical data scientist with clinical expertise and specialized training in computational biomedicine. Passionate about building real-time, interpretable machine and deep learning systems using physiological signals and multimodal data (e.g., HRV, retinal images, voice) to predict disease risk and enhance organ health monitoring. Skilled in wearable analytics, digital biomarker discovery, and patient-centric visualization tools. Seeking to advance human-centered AI in healthcare by bridging biosensing, modeling, and clinical utility.
 
 ---
 
 ## Skills  
-**ML & Deep Learning**
-- PyTorch, TensorFlow, Keras, Scikit-learn, SHAP, LIME, XGBoost
-- Time-series modeling, model interpretability
+**Core Competencies**
+- Machine learning, deep learning, preditive modeling, multimodal AI, digital health, precision medicine
+- Time-series analysis, signal processing
+- EHR and clinical data, data visualization, physiological computing, personal informatics, responsible AI
 
-**Biomedical & Multimodal AI**
+**Programming & Tools**
+- Python, R, SQL, Git, Bash, Jupyter, Google Colab, RStudio, VSCode
+- Scikit-learn, XGBoost, PyTorch, TensorFlow, Keras
+- Model interpretability (SHAP, LIME) cross-validation, hyperparameter tuning
+- Familiarity with HTML5, CSS3, JavaScript (Node.js/Express.js), Django
+- Hands-on experience with Arduino and Raspberry Pi Pico for creating interactive projects and biomedical applications
+
+**Data Science**
+- Data wrangling, feature engineering, EDA, statistical modeling, clustering, classification, regression
 -	Wearable signal analysis (HRV, ECG, PPG), biosensor data pipelines
--	Digital biomarkers, real-time physiology tracking, multimodal ML (image/audio/signal fusion)
+-	Digital biomarkers, real-time physiology tracking
 
 **Clinical Informatics & Research**
 -	EHR data analysis, FHIR, OMOP, CDM, clinical decision support systems, patient dashboards
--	Predictive modeling, classification, regression
--	Integrative primary care, chronic disease management, course instruction, scientific writing
-
-**Data & Tools**
--	Python, R, SQL, Git, Bash, Google Colab, Jupyter, RStudio, VSCode
--	Familiarity with HTML5, CSS3, JavaScript (Node.js/Express.js), Django
-- Hands-on experience with Arduino and Raspberry Pi Pico for creating interactive projects and biomedical applications
+-	Clinical experience in chronic disease management
+-	Extensive teaching experience
+-	Scientific/technical writing
 
 ---
 
 ## Education  
-**M.S. (Bioinformatics & Computational Biomedicine)**
->Oregon Health & Science University (OHSU)\
-Portland, Oregon (*June 2025*)
+**Master of Science (MS) | Bioinformatics & Computational Biomedicine**\
+Oregon Health & Science University (OHSU) | Portland, Oregon\
+*July 2023 - June 2025*
 
-**N.D. (Naturopathic Medicine)**
->National College of Naturopathic Medicine (NCNM)\
-Portland, Oregon (*June 1998*)
+**Naturopathic Doctor (ND) | Naturopathic Medicine**\
+National University of Natural Medicine (NUNM) | Portland, Oregon\
+*September 1993 - June 1998*
 
-**M.S. (East Asian Medicine)**
->National College of Naturopathic Medicine (NCNM)\
-Portland, Oregon (*June 1998*)
+**Master of Science (MS) | East Asian Herbal Medicine & Acupuncture**\
+National University of Natural Medicine (NUNM) | Portland, Oregon\
+*September 1996 - June 1998*
 
-**B.S. (Physics and Mathematics)**
->The Ohio State University\
-Columbus, Ohio (*June 1992*)
+**Bachelor of Science (BS) | Physics and Mathematics**\
+The Ohio State University | Columbus, Ohio\
+*September 1987 - June 1992*
 
 ---
 
@@ -55,19 +60,21 @@ Columbus, Ohio (*June 1992*)
 **Research Data Analyst 1**\
 Oregon Health & Science University (OHSU), Casey Eye Institute\
 *Sept 2024 – Present*
-- Provide technical support for the AI-READI dataset, part of the NIH-funded Bridge2AI Program, including data cleaning, transformation, and validation.
+- Transformed and merged large-scale NIH AI-READI datasets through rigorous ETL processes, ensuring robust data quality and integrity for subsequent deep learning analyses in healthcare
 
 **NLM Postdoctoral Fellow** (Bioinformatics & Computational Biomedicine)\
 Oregon Health Sciences University (OHSU)\
 *July 2023 - July 2025* (*Expected*)
-- Engaging in cutting-edge AI/Machine Learning applications for biomedical research, focusing on health optimization, digital biomarkers, and systems biology.
-- Applying computational techniques to analyze large-scale biomedical data, aiming to advance predictive models for health resilience and disease prevention.
-- Collaborating with cross-disciplinary teams to integrate bioinformatics tools and biomedical datasets for personalized medicine solutions.
+- Engineered machine learning pipelines using Python to predict chronic disease risk from multimodal biomedical data, including wearable signals, clinical labs, and survey data, thereby enhancing patient risk stratification.
+- Applied advanced signal processing and feature engineering techniques (FFT, SDNN, RMSSD) to time-series data from wearable biosensors, leading to the discovery of novel digital biomarkers for early disease detection.
+- Utilized interpretable machine learning methodologies (SHAP, ROC-AUC, precision/recall analysis) to rigorously evaluate model performance, thereby enhancing model explainability and informing clinical decision-making.
+- Established reproducible and scalable workflows integrating Python, SQL, and Git to streamline biomedical data analysis, fostering efficient collaboration and reliability in research outcomes. 
+
 
 **Naturopathic Physician | Telehealth Provider**\
 Self-employed\
 *Jan 2021 - Present*
-- Delivering personalized, integrative care through telehealth to clients with chronic health conditions, including chronic pain, autoimmune disorders, and cardio-metabolic dysfunction.
+- Deliver personalized, integrative care through telehealth to clients with chronic health conditions, including chronic pain, autoimmune disorders, and cardio-metabolic dysfunction.
 - Utilizing a holistic approach combining evidence-based naturopathic treatments with lifestyle interventions to optimize health outcomes.
 - Developing customized wellness plans, integrating nutrition, herbal medicine, and stress management strategies for long-term health and resilience.
 - Leveraging telemedicine technologies to expand patient access to integrative care and facilitate ongoing health monitoring.
@@ -91,8 +98,9 @@ New Health Horizons, LLC\
 ## Selected Projects
 
 **Predicting Metabolic Risk Using Wearable Data (2025)**
--	Built ML pipelines with Scikit-learn and TensorFlow using HRV and stress data from 700+ participants
--	Validated models via 5-fold cross-validation; reported ROC-AUC and precision/recall metrics.
+-	Developed ML pipelines (Scikit-learn) to classify metabolic disease risk using HRV features from wearable ECG data
+-	Achieved high ROC-AUC via 5-fold cross-validation; performed feature importance analysis with SHAP
+
 
 **HRV Signal Cleaning & Feature Extraction**
 -	Developed Python-based pipeline for preprocessing HRV from ECG recordings
@@ -102,7 +110,8 @@ New Health Horizons, LLC\
 
 ## Recent Coursework  
 **Oregon Health Sciences University (OHSU)** 
-- Introduction to Biomedical Informatics (BMI 510)  
+- Introduction to Biomedical Informatics (BMI 510)
+- Introduction to Clinical Informatics (BMI 512) 
 - Introduction to Biostatistics (BSTA 525)  
 - Probability & Statistical Inference (BMI 531)  
 - Bioinformatics Algorithms (BMI 550)  
@@ -118,13 +127,14 @@ New Health Horizons, LLC\
 - Google Data Analytics Career Certificate (Coursera, 2022)  
 - Complete Web Developer Bootcamp (Udemy, 2022)  
 - Complete Python Bootcamp (Udemy, 2022)  
-- Data Science & Machine Learning with Python (Udemy, 2022)  
+- Data Science & Machine Learning with Python (Udemy, 2022)
+- Deep Learning with PyTorch (Udemy, 2025)
 
 ---
 
 ## Publications  
 **Capstone**
-- Kalnins, P. *Feasibility of Using Wearable Metrics to Predict Type 2 Diabetes and Liver Fibrosis Risk: Insights from the AI-READI Dataset* (Expected May 2025)
+- Kalnins, P. (2025). *Wearable-derived autonomic metrics for predicting metabolic and hepatic risk: Insights from AI-READI (Master’s capstone project)*. Department of Medical Informatics and Clinical Epidemiology, School of Medicine, Oregon Health & Science University. DOI: [10.6083/bpxhc44709](https://doi.org/10.6083/bpxhc44709)
 
 **Theses**  
 - Kalnins, P. *Toxemia and Terrain: The Evolution of Intestinal Dysbiosis and Hyperpermeability* (1998)  
@@ -139,7 +149,7 @@ New Health Horizons, LLC\
 ---
 
 ## Targeted Domains & Interests
-Digital Biomarkers • Biosensors • Multimodal AI • Real-Time Physiology • Remote Monitoring • Biological Rhythms • Clinical Decision Support • EHR Visualization • Human-Centered AI in Healthcare • Salutogenic Healthcare • Stress Resilience
+Digital Biomarkers • Biosensors • Multimodal AI • Real-Time Physiology • Remote Monitoring • Biological Rhythms • Clinical Decision Support • EHR Visualization • Human-Centered AI in Healthcare • Salutogenic Healthcare • Stress Resilience • Machine learning • Deep learning
 
 ---
 
